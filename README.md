@@ -1,33 +1,41 @@
-<!-- TOP BANNER GIF -->
+<!-- DARK HEADER FEEL -->
+<h1 align="center">Shruthideepika Reddy</h1>
 <p align="center">
-  <img src="https://assets.website-files.com/5e0f1144930a8bc8aace526c/600710ec8ae283e8156b0700_giphy.gif" width="100%">
+  <i>Building. Learning. Evolving.</i>
 </p>
 
-<!-- NAME + TAGLINE OVERLAY STYLE -->
-<h2 align="center">Shruthideepika Reddy</h2>
 <p align="center">
-  Computer Science Student • Developer • Open Source
-</p>
-
-<!-- COMPACT BADGES ROW -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shruthideepikareddy&color=blueviolet&style=flat-square&label=Profile+Views"/>
-  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shruthideepikareddy&color=blueviolet&style=flat-square&label=views"/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shruthideepika-vuyyuru/">
-    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="60">
+    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="55">
   </a>
 </p>
 
----
+<br>
 
-<!-- TECH + STATS IN SAME VISUAL BLOCK -->
+<!-- TECH STRIP -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,github" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shruthideepikareddy&show_icons=true&theme=github_dark&hide_border=true" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruthideepikareddy&theme=github-dark-blue&hide_border=true" height="130"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,github" />
 </p>
 
-<!-- SMALL SUPPORTING GIF (NOT DOMINATING) -->
+<br>
+
+<!-- STATS COMPACT + BALANCED -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="260">
+  <img src="https://github-readme-stats.vercel.app/api?username=shruthideepikareddy&show_icons=true&theme=github_dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruthideepikareddy&theme=github-dark-blue&hide_border=true" height="140"/>
+</p>
+
+<br>
+
+<!-- LOW VISUAL ANIMATION (SUBTLE, NOT LOUD) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="220">
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Focused on clean code, real-world systems, and continuous growth.</sub>
 </p>
