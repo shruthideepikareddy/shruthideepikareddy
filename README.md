@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=shruthideepikareddy&utm_content=line">
+      <img src="https://render.gitanimals.org/lines/shruthideepikareddy" width="600" height="120"/></a>
 <!--
 **shruthideepikareddy/shruthideepikareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
