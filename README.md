@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shruthideepikareddy&color=blueviolet&style=flat-square&label=views"/>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shruthideepika-vuyyuru/">
     <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="55">
   </a>
