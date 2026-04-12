@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=shruthideepikareddy&theme=transparent&hide_border=true)
 <!--
 **shruthideepikareddy/shruthideepikareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
