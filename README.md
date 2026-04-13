@@ -33,6 +33,6 @@
 
 <br>
 
-<p align="center">
+<p align="center" style="font-size:23px;">
   <sub>Focused on clean code, real-world systems, and continuous growth.</sub>
 </p>
