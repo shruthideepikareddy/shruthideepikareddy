@@ -21,7 +21,6 @@
 
 <!-- STATS COMPACT + BALANCED -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruthideepikareddy&show_icons=true&theme=github_dark&hide_border=true" height="140"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruthideepikareddy&theme=github-dark-blue&hide_border=true" height="140"/>
 </p>
 
